@@ -20,3 +20,8 @@ Tuesday:
 Chocolate,
 Peanut,
 Ice Cream,
+
+Wed:
+--------
+Sunscreen,
+butox,
