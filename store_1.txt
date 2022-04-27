@@ -1,7 +1,15 @@
 
 Inventory:
 
+Sunday:
+---------
 Orange,
 PineApple,
 Apple,
-Tomato,
+
+
+Monday:
+---------
+Orange Juice,
+Raseberry,
+Coconut,
