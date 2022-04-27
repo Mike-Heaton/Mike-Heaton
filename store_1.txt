@@ -1,0 +1,7 @@
+
+Inventory:
+
+Orange,
+PineApple,
+Apple,
+Tomato,
